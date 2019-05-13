@@ -1,0 +1,2 @@
+# algorithm-and-data_structure
+書籍「アルゴリズムとデータ構造」という本の中の問題をPythonで解きました
